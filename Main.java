@@ -4,14 +4,20 @@ public class Main {
         /**
          * Code to Review
          */
-        SAMPLE1b sample1b = new SAMPLE1b();
-        sample1b.sampleMethod();
+        //SAMPLE1b sample1b = new SAMPLE1b();
+        //sample1b.sampleMethod();
 
 
         /**
          * Example cleaned code
          */
-        System.out.println(Converter.bitsToDecimal("10000001"));
+
+        codeToReview codeToReview = new codeToReview();
+        codeToReview.sampleMethod();
+
+        //System.out.println(Converter.bitsToDecimal("10000001"));
+
+
 
 
     }
