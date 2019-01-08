@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.util.Random;
 
-public class codeToReview {
+public class CodeToReview {
     // store card values, update value to 0 when card is played
     int[] myCards = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10};
 

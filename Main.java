@@ -12,7 +12,7 @@ public class Main {
          * Example cleaned code
          */
 
-        codeToReview codeToReview = new codeToReview();
+        CodeToReview codeToReview = new CodeToReview();
         codeToReview.sampleMethod();
 
         //System.out.println(Converter.bitsToDecimal("10000001"));
