@@ -1,6 +1,6 @@
 # Code review : BlackJack solo
 
-![BlackJack](/img/bj.jpg)
+<img src="/img/bj.png" width="100">
 
 Règles du jeu :
 
