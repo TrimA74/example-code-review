@@ -1,6 +1,6 @@
 # Code review : BlackJack solo
 
-<img src="/img/bj.jpg" width="100"/>
+<img src="/img/bj.jpg" width="300"/>
 
 Règles du jeu :
 
