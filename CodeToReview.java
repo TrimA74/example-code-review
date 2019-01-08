@@ -23,9 +23,9 @@ public class CodeToReview {
         dealCard();                               // call method: deal
 
         // loop until bust or pontoon or player quits
-        while ((total < 21) && (response.equals("Y"))) {
+        while ((total < 21) && (response.equals("Y") || response.equals("y"))){
             response = JOptionPane.showInputDialog("Twist? (Y/N)");
-            if (response.equals("Y")) {
+            if ((response.equals("Y") || response.equals("y"))) {
                 //deal again
                 System.out.print("Deal another card: ");
                 dealCard();
